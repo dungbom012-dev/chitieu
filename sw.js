@@ -1,5 +1,5 @@
 // Đổi số phiên bản mỗi khi cập nhật app để điện thoại tải bản mới
-const CACHE = 'chitieu-v1.2';
+const CACHE = 'chitieu-v1.4';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
